@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://instagram.com/sitemap-index.xml
+Host: https://instagram.com
